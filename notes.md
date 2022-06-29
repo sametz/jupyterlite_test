@@ -13,3 +13,8 @@ and it seems they use custom destinations.
 jupyter lite build --contents content
 ```
 - serve locally: `jupyter lite serve`
+
+## Adding NMR content
+
+- Holoviews and panel were not automatically recognized. 
+  - TODO: figure out how to use these libraries with Jupyterlite.
