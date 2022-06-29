@@ -1,3 +1,5 @@
+This Jupyterlite site is published as: [https://sametz.github.io/jupyterlite_test/](https://sametz.github.io/jupyterlite_test/)
+
 The notebooks of interest to CHEM333 students are:
 
 - first_order_part_1.ipynb: describes first-order splittings that follow the
