@@ -17,4 +17,11 @@ jupyter lite build --contents content
 ## Adding NMR content
 
 - Holoviews and panel were not automatically recognized. 
-  - TODO: figure out how to use these libraries with Jupyterlite.
+  - to use these libraries with Jupyterlite, this should work:
+```
+import piplite
+await piplite.install(['bokeh', 'jupyter_bokeh', 'holoviews', 'panel'])
+```
+- however, `sparse` and `nmrsim` can't be imported this way b/c of numba
+  - TODO: either figure out how to use `sparse` in jupyterlite, 
+or lobotomize sparse routines from `nmrsim`.
