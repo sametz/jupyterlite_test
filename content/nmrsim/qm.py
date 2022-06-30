@@ -52,20 +52,20 @@ else:
 import numpy as np  # noqa: E402
 # import sparse  # noqa: E402
 
-import nmrsim.bin  # noqa: E402
+# import nmrsim.bin  # noqa: E402
 from nmrsim.math import normalize_peaklist  # noqa: E402
 
 CACHE = True  # saving of partial solutions is allowed
 SPARSE = False  # the sparse library is NOT available
 
 
-def _bin_path():
-    """Return a Path to the nmrsim/bin directory."""
-    init_path_context = resources.path(nmrsim.bin, '__init__.py')
-    with init_path_context as p:
-        init_path = p
-    bin_path = init_path.parent
-    return bin_path
+# def _bin_path():
+#     """Return a Path to the nmrsim/bin directory."""
+#     init_path_context = resources.path(nmrsim.bin, '__init__.py')
+#     with init_path_context as p:
+#         init_path = p
+#     bin_path = init_path.parent
+#     return bin_path
 
 
 def _so_dense(nspins):
