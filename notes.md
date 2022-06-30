@@ -17,11 +17,17 @@ jupyter lite build --contents content
 ## Adding NMR content
 
 - Holoviews and panel were not automatically recognized. 
+  - `panel` roadmap indicates that they plan to be able to export panel apps as standalone WASM apps in the future!
   - to use these libraries with Jupyterlite, this should work:
 ```
 import piplite
 await piplite.install(['bokeh', 'jupyter_bokeh', 'holoviews', 'panel'])
 ```
-- however, `sparse` and `nmrsim` can't be imported this way b/c of numba
-  - TODO: either figure out how to use `sparse` in jupyterlite, 
+
+  - however, `sparse` and `nmrsim` can't be imported this way b/c of numba
+    - TODO: either figure out how to use `sparse` in jupyterlite, 
 or lobotomize sparse routines from `nmrsim`.
+      - It seems that `numba` to WASM (pyodide, jupyterlab)
+      is an active discussion but it's held up by a dependency.
+      - Therefore, copy the guts of `nmrsim` over
+but hack the code so that sparse isn't used.
