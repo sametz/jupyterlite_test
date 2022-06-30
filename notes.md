@@ -41,3 +41,5 @@ Refreshing in Safari seemed to work though?
 
 Some interactive panels worked, some didn't on Chrome, 
 and no interactivity on Safari when `jupyter lab` run from terminal.
+
+Refreshing seemed to fix things. Chrome needed a cache clear.
