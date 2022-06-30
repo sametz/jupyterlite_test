@@ -1,0 +1,133 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "_classes.py",
+      "path": "nmrsim/_classes.py",
+      "size": 12494,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "firstorder.py",
+      "path": "nmrsim/firstorder.py",
+      "size": 2851,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.362218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "qm.py",
+      "path": "nmrsim/qm.py",
+      "size": 17467,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "_descriptors.py",
+      "path": "nmrsim/_descriptors.py",
+      "size": 3005,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "discrete.py",
+      "path": "nmrsim/discrete.py",
+      "size": 11677,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.362218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "plt.py",
+      "path": "nmrsim/plt.py",
+      "size": 4983,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "math.py",
+      "path": "nmrsim/math.py",
+      "size": 6203,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "_utils.py",
+      "path": "nmrsim/_utils.py",
+      "size": 778,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "nmrsim/__init__.py",
+      "size": 2687,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-30T13:52:52.358218Z",
+      "format": null,
+      "last_modified": "2022-06-30T13:51:23.078158Z",
+      "mimetype": "text/x-python",
+      "name": "dnmr.py",
+      "path": "nmrsim/dnmr.py",
+      "size": 16560,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-30T13:52:52.362218Z",
+  "format": "json",
+  "last_modified": "2022-06-30T13:52:52.362218Z",
+  "mimetype": null,
+  "name": "nmrsim",
+  "path": "nmrsim",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
