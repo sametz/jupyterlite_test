@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-01T21:18:09.794915Z",
+      "format": null,
+      "last_modified": "2022-07-01T21:17:06.134758Z",
+      "mimetype": "text/x-python",
+      "name": "panel_plots.py",
+      "path": "utils/panel_plots.py",
+      "size": 10004,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-01T21:18:09.794915Z",
+      "format": null,
+      "last_modified": "2022-07-01T21:17:06.134758Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "utils/__init__.py",
+      "size": 0,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-01T21:18:09.794915Z",
+  "format": "json",
+  "last_modified": "2022-07-01T21:18:09.794915Z",
+  "mimetype": null,
+  "name": "utils",
+  "path": "utils",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
